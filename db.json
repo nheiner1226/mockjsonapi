@@ -5,7 +5,7 @@
     { "id": 3, "name": "charmander", "animal": "lizard"}, 
     { "id": 4, "name": "pidgey", "animal": "pigeon"}, 
     { "id": 5, "name": "rattata", "animal": "rat"}
-  ]
+  ],
   "Moves": [
     { "id": 1, "name": "tackle", "type": "normal", "category": "physical" },
     { "id": 2, "name": "screech", "type": "normal", "category": "status" },
