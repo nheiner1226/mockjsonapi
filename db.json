@@ -1,16 +1,16 @@
-{
-  "Pokemon": [
+[
+  "Pokemon": {
     { "id": 1, "name": "squirtle", "animal": "turtle" },
     { "id": 2, "name": "bulbasaur", "animal": "frog"}, 
     { "id": 3, "name": "charmander", "animal": "lizard"}, 
     { "id": 4, "name": "pidgey", "animal": "pigeon"}, 
     { "id": 5, "name": "rattata", "animal": "rat"}
-  ]
-  "Moves": [
+  }
+  "Moves": {
     { "id": 1, "name": "tackle", "type": "normal", "category": "physical" },
     { "id": 2, "name": "screech", "type": "normal", "category": "status" },
     { "id": 3, "name": "quick_attack", "type": "normal", "category": "physical" },
     { "id": 4, "name": "swift", "type": "normal", "category": "special" },
     { "id": 5, "name": "screech", "type": "normal", "category": "special" },
-  ]
-}
+  }
+]
