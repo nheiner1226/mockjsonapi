@@ -1,4 +1,4 @@
-P
+{
   "Pokemon": [
     { "id": 1, "name": "squirtle", "animal": "turtle" },
     { "id": 2, "name": "bulbasaur", "animal": "frog"}, 
